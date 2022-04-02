@@ -48,6 +48,9 @@ ENV_DRAW_X_START="x_position_start_integer"
 ENV_DRAW_Y_START="y_position_start_integer"
 ```
 
+X_START = 175
+Y_START = 484
+
 Change unknown.png to specify what image to draw. Note: one pixel is drawn every 5 minutes and only jpeg images are supported.
 
 unknown.png can be customized using paint or another image manipulation tool of your choosing.
